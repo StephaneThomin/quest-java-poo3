@@ -19,7 +19,7 @@ public class Nature {
         eyeCherry.glide();
         eyeCherry.descend(140);
         eyeCherry.land();
-        eyeCherry.descend(9);
+        eyeCherry.descend(10);
         eyeCherry.land();
     }
 }
